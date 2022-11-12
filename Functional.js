@@ -10,6 +10,5 @@ const findWorkout = () => {
 const displayMessage = () => {
     let final = findWorkout()
     return `Your cardio session today will be complete with: ${final}`
-
 }
 
