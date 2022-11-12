@@ -12,3 +12,4 @@ const displayMessage = () => {
     return `Your cardio session today will be complete with: ${final}`
 }
 
+button.onclick = displayMessage
