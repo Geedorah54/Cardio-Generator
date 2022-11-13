@@ -1,7 +1,25 @@
-#id {
-    color: red
+#Description {
+    color: red;
+    text-align: center;
+    font-family: 'Geneva'
 }
 
 body {
-    background-color: bisque
+    background-color: black;
 }
+
+.action {
+    text-align: center;
+}
+
+#Output {
+    color: red;
+    font-family: 'Geneva'
+}
+
+p {
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Geneva'
+}
+
